@@ -1,0 +1,2 @@
+com/mosbach/demo/DemoApplicationTests.java
+ com.mosbach.demo.DemoApplicationTests
